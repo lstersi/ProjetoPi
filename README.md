@@ -4,7 +4,7 @@ Projeto Integrador - Diagnóstico de Doenças da batata-doce
 Este script faz parte do Projeto Integrador do curso e tem como objetivo auxiliar pequenos agricultores no diagnóstico de doenças da batata-doce, oferecendo informações claras e acessíveis sobre sintomas, causas e possíveis tratamentos.
 
 A aplicação foi desenvolvida utilizando Next.js no front-end e integra funcionalidades como:
-	•	 Base de dados de doenças/pragas – Informações sobre sintomas, prevenção ,tratamento e images para facilitar a identificação do doença.
+	•	 Base de dados de doenças/pragas – Informações sobre sintomas, prevenção ,tratamento e imagens para facilitar a identificação da doença.
 # Tecnologias Utilizadas
 	•	Frontend: Next.js, React, CSS Modules
 	•	Backend: Node.js 

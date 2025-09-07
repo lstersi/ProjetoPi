@@ -16,6 +16,7 @@
 
 .header {
   font-family: "Inter", sans-serif;
+  border-radius: 8px;
   background: #fff;
   padding: 5px 32px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
@@ -97,6 +98,7 @@ header:hover {
   border-radius: 8px;
   margin-top: var(--espacamento-padrao);
   font-family: "Inter", sans-serif;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
 }
 
 .img {
